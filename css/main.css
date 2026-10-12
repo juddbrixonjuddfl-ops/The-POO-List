@@ -2,7 +2,8 @@
     --color-background: black;
     --color-on-background: white;
     --color-background-hover: white #eee;
-    --color-on-background-hover: white ;
+    --color-on-background-hover: black
+    ;
     --color-primary: #white;
     --color-on-primary: white;
     --color-error: #white;
