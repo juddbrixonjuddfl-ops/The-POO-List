@@ -1,18 +1,18 @@
 {
     "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "name": through the poo
+    "author":avirx
+    "creators": avirx
+    "verifier": avirx
+    "verification":https://youtu.be/95jC_VyoJO4
     "percentToQualify": 56,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": avirx
+            "link": https://youtu.be/95jC_VyoJO4
+            "percent": 100
+            "hz": 480
         }
     ]
 }
