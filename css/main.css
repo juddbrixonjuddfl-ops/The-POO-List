@@ -59,7 +59,7 @@ header {
         padding-inline: 0;
     }
 }
-header .logo {
+header .logo TPL{
     justify-self: end;
     align-self: center;
     display: flex;
